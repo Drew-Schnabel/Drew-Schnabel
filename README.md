@@ -11,8 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [VAINS-Dev](VAINS-Dev)
 
-- 📫 How to reach me
-Government Projects:**Drew.Schnabel@va.gov**
+- 📫 How to reach me; 
+Government Projects:**Drew.Schnabel@va.gov**    
 Personal Projects: **Drew.c.Schnabel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
