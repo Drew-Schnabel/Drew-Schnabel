@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS, C#, JS, .CSS and HTML**
 
-- 👨‍💻 All of my projects are available at [VAINS-Dev](VAINS-Dev)
+- 👨‍💻 All of my projects are available on my profile. 
 
 - 📫 How to reach me:         
 Government Projects:**Drew.Schnabel@va.gov**    
