@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drew-schnabel" alt="drew-schnabel" /></a> </p>
 
-- 🔭 I’m currently working on [**VA Insurance Business Services**](https://github.com/VAINS-Dev/Insurance-Business-Services),  **A.R.C.H.E.R**, **LIPAS Payment Automation**
-
-- 🌱 I’m currently learning **ReactJS, C#, JS, .CSS and HTML**
+- 🔭 I’m currently working on [**VA Insurance Business Services**](https://github.com/VAINS-Dev/Insurance-Business-Services),  [**A.R.C.H.E.R**](https://github.com/VAINS-Dev/A.R.C.H.E.R), [**LIPAS Payment Automation**](https://github.com/VAINS-Dev/VIW-1517---LIPAS-Payment-Automation--Business-Support)
 
 
 - 📫 How to reach me: **Drew.c.Schnabel@gmail.com**
