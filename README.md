@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drew</h1>
 
-- 🔭 I’m currently working on [**VA Insurance Business Services**](https://github.com/VAINS-Dev/Insurance-Business-Services)
-
 - 📫 How to reach me: **Drew.c.Schnabel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
